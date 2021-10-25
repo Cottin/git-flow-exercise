@@ -12,10 +12,6 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Asparagus with Cranberries and Pine Nuts](recipe/feb/asparagus-with-cranberries-and-pine-nuts.md)
 
-### [John Lemon](writer/john-lemon.md)
-
-[Candied Carrots](../recipe/feb/quick-oatmeal-pancakes.md)
-
 ### [Madame Croque](writer/madame-croque.md)
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
